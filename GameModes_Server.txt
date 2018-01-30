@@ -85,7 +85,7 @@
 
 
 
-                    "maxplayers"            "10"
+                    "maxplayers"            "16"
 
                     // These are the configs that get executed when a game mode of this type is created
                     "exec"
@@ -121,7 +121,7 @@
                 {
 
 
-                        "maxplayers"            "10"
+                        "maxplayers"            "16"
 
                         // These are the configs that get executed when a game mode of this type is created
                         "exec"
@@ -183,8 +183,9 @@
             {
                 "de_mirage"        ""
                 "de_inferno"        ""
-                "de_santorini"        ""
+                "de_canals"        ""
                 "de_train"        ""
+                "de_cache"        ""
             }
         }
     }

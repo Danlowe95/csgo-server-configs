@@ -13,7 +13,7 @@
                 "competitive"{
 
                         
-                        "maxplayers"        "16"            // Note that maxplayers doesn't go in the convar block.
+                        "maxplayers"        "32"            // Note that maxplayers doesn't go in the convar block.
                                                             // Another way to set maxplayers is to add -maxplayers_override XX to the cmd line.
                         "exec"
                         {
@@ -35,7 +35,7 @@
                 "competitive2v2"{
 
                         
-                        "maxplayers"        "16"            // Note that maxplayers doesn't go in the convar block.
+                        "maxplayers"        "32"            // Note that maxplayers doesn't go in the convar block.
                                                             // Another way to set maxplayers is to add -maxplayers_override XX to the cmd line.
                         "exec"
                         {
@@ -85,7 +85,7 @@
 
 
 
-                    "maxplayers"            "16"
+                    "maxplayers"            "32"
 
                     // These are the configs that get executed when a game mode of this type is created
                     "exec"
@@ -121,7 +121,7 @@
                 {
 
 
-                        "maxplayers"            "16"
+                        "maxplayers"            "32"
 
                         // These are the configs that get executed when a game mode of this type is created
                         "exec"
